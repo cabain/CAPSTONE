@@ -1,5 +1,5 @@
 function varargout = GUI_figure(varargin)
-%Iinitialization code - DO NOT EDIT....ha I edited
+%Iinitialization code - DO NOT EDIT
 % --- Executes just before GUI_figure is made visible.
 gui_Singleton = 1;
 gui_State = struct('gui_Name',       mfilename, ...
